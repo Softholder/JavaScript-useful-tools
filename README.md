@@ -8,3 +8,7 @@ countDown.js
 ```
 phoneNum.js
 ```
+3. 一种短地址编码实现，根据整数生成短地址
+```
+UrlEncoder.js
+```
