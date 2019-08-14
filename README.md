@@ -12,3 +12,11 @@ phoneNum.js
 ```
 UrlEncoder.js
 ```
+4. 防抖
+```
+debounce.js
+```
+5. 节流
+```
+throttle.js
+```
