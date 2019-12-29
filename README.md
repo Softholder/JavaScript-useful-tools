@@ -24,3 +24,7 @@ throttle.js
 ```
 deepCopy.js
 ```
+7.判断URL是否同源
+```
+isURLSameOrigin.js
+```
