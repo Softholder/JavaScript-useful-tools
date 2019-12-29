@@ -20,3 +20,7 @@ debounce.js
 ```
 throttle.js
 ```
+6. 对象深拷贝
+```
+deepCopy.js
+```
