@@ -1,6 +1,6 @@
-let DEFAULT_ALPHABET = 'mn6j2c4rv8bpygw95z7hsdaetxuk3fq';
-let DEFAULT_BLOCK_SIZE = 24;
-let MIN_LENGTH = 5;
+const DEFAULT_ALPHABET = 'mn6j2c4rv8bpygw95z7hsdaetxuk3fq';
+const DEFAULT_BLOCK_SIZE = 24;
+const MIN_LENGTH = 5;
 
 function mapArrStr(arrstr){
     let map = new Map();
